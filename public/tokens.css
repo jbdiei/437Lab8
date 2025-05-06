@@ -1,0 +1,20 @@
+:root{
+    --color-bg-page: #98d5fb;
+    --color-bg-header:  #e4e9f1 ;
+    --color-link: #790C0C;
+    --color-header-text: #2927A5;
+    --color-main-text: #000;
+    --header-font-family: "Carter One", system-ui;
+    --body-font-family: "Noto Serif", serif
+
+}
+
+body.dark-mode {
+
+--color-bg-page: #032535;           /* deep blue background */
+--color-bg-header: #1c1f26;         /* muted dark header */
+--color-link: #ffa3a3;              /* light red/pinkish for contrast */
+--color-header-text: #b8b6ff;       /* soft light purple/blue */
+--color-main-text: #f5f5f5; 
+
+}
